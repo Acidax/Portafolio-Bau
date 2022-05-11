@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="../img/logo/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="../img/logo/favicon.ico" type="image/x-icon">
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <title>Laura L. Tamayo | Inicio</title>
+  </head>
+  <body>
+      <header class="p-1 headerGif text-white">
+        <div class="container">
+            <div class="d-flex flex-wrap justify-content-center py-3">
+              <a href="/" class="d-flex align-items-center mb-md-0 me-md-auto text-dark text-decoration-none">
+                <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"/></svg>
+                <span class="fs-4 text-white">
+                    Laura
+                </span>
+              </a>
+        
+              <ul class="nav nav-pills">
+                <li class="nav-item"><a href="#sobreMi" class="nav-link text-white">Sobre mi</a></li>
+                <li class="nav-item"><a href="#proyectos" class="nav-link text-white">Proyectos</a></li>
+                <li class="nav-item"><a href="#expArt" class="nav-link text-white">Experimental Art</a></li>
+                <li class="nav-item"><a href="#contacto" class="nav-link text-white">Contacto</a></li>
+              </ul>
+            </div>
+        </div>
+      </header>
+      <main class="container-fluid px-0 page">
+          <div class="duetbanner row mb-3">
+            <img src="../img/Proyects/PROY 1 DUETE/29e9db106821675.5f98b09cbf146.jpg" alt="Duet roject banner" class="img-fluid">
+          </div>
+          <div class="row mt-5 container">
+            <div class="col-md-7">
+                <h1>
+                    <span class="badge rounded-pill bg-primary px-5 py-3">Branding</span>
+                </h1>
+                <div class="container py-3">
+                    <h4 class="text-primary">La marca</h4>
+                    <p>La finalidad de la marca y aplicación movil “Duete”, tiene como propósito servir de ayuda a las personas que requieran una persona experta o profesionalmente formada para realizar alguna tarea. Asu vez, ayudar a los profesionales a captar clientes y ganar dinero extra.</p>
+                    <h4 class="text-primary mt-4">Mi rol</h4>
+                    <p>Diseñadora UI</p>
+                </div>
+            </div>
+            <div class="col-md-5">
+                <img src="" class="" alt="crative juices gif">
+            </div>
+          </div>
+          <div class="row">
+            <h3 class="text-center">Proceso</h3>
+            <div class="row container px-5 my-3 w-75 mx-auto">
+                <div class="col-md mx-4 text-center">
+                    <img src="../img/portafolio/location.png" class="w-75" alt="">
+                    <p class="py-5"><strong>Investigar</strong></p>
+                </div>
+                <div class="col-md mx-4 text-center">
+                    <img src="../img/portafolio/location.png" class="w-75" alt="">
+                    <p class="py-5"><strong>Investigar</strong></p>
+                </div>
+                <div class="col-md mx-4 text-center">
+                    <img src="../img/portafolio/location.png" class="w-75" alt="">
+                    <p class="py-5"><strong>Investigar</strong></p>
+                </div>
+                <div class="col-md mx-4 text-center">
+                    <img src="../img/portafolio/location.png" class="w-75" alt="">
+                    <p class="py-5"><strong>Investigar</strong></p>
+                </div>
+            </div>
+          </div>
+          <div class="row bg-dark text-white mx-auto py-5">
+            <div class="col-md-2 text-center">
+                <h5 class="fw-5">Jost</h5>
+            </div>
+            <div class="col-md-6">
+                <p class="text-start">
+                    ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                    <br>
+                    0 1 2 4 5 6 7 8 9
+                </p>
+            </div>
+          </div>
+          <div class="row mt-5 py-4">
+            <h1 class="text-center">
+                <span class="badge rounded-pill bg-primary px-5 py-3">Colores</span>
+            </h1>
+            <div class="container py-3">
+                <div class="row px-5 d-flex align-items-center">
+                    <div class="col-md-3">
+                        <h5 class="fw-5 text-center">Principales</h5>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="row my-3">
+                            <div class="col-md">
+                                <div class="square" style="background-color: #312763;"></div>
+                            </div>
+                            <div class="col-md">
+                                <div class="square" style="background-color: #0F0A40;"></div>
+                            </div>
+                            <div class="col-md">
+                                <div class="square" style="background-color: #B4D1EF;"></div>
+                            </div>
+                            <div class="col-md">
+                                <div class="square" style="background-color: #C7DCF1;"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+          </div>
+          <div class="row my-3 py-3">
+            <div class="col">
+                <h3 class="text-center text-primary py-5">Logo</h3>
+                <img src="../img/Proyects/PROY 1 DUETE/bf1bd2106821675.5f98ba1e4fb08.jpg" class="img-fluid" alt="">
+            </div>
+        </div>
+        <div class="row my-3 py-3">
+            <div class="col">
+                <h3 class="text-center text-primary py-4">Iconografía</h3>
+                <img src="../img/Proyects/PROY 1 DUETE/1cfacb106821675.5f98b09cbe44d.jpg" class="img-fluid px-5" alt="">
+            </div>
+        </div>
+        <div class="row my-3 py-3">
+            <div class="col">
+                <h3 class="text-center text-primary py-4">Flat ilustraciones</h3>
+                <img src="../img/Proyects/PROY 1 DUETE/94c01e106821675.5f98b09cbeb0d.jpg" class="img-fluid px-5" alt="">
+            </div>
+        </div>
+        <div class="row my-3 py-3">
+            <div class="col">
+                <h3 class="text-center text-primary py-4">Aplicaciones</h3>
+                <img src="../img/Proyects/PROY 1 DUETE/693103106821675.5f98b09cbfe33.jpg" class="img-fluid px-5" alt="">
+                <img src="../img/Proyects/PROY 1 DUETE/a48808106821675.5f98b09cbb386.jpg" class="img-fluid p-5" alt="">
+            </div>
+        </div>
+          <div class="row my-3 pt-5" id="contacto">
+            <div class="col-md-6">
+                <div class="container">
+                    <h2>¡Trabajemos Juntos!</h2>
+                <p class="w-50">
+                    Conozcamonos, puedes contactarme por cualquiera de mis plataformas estaré encantada de recibir tú mensaje.
+                </p>
+                <div class="hstack gap-3">
+                    <p class="fs-1 mx-2">
+                        <i class="bi bi-spotify"></i>
+                    </p>
+                    <p class="fs-1 mx-2">
+                        <i class="bi bi-behance"></i>
+                    </p>
+                    <p class="fs-1 mx-2">
+                        <i class="bi bi-instagram"></i>
+                    </p>
+                  </div>
+                </div>
+                <div class="frog">
+
+                </div>
+            </div>
+            <div class="col-md-6">
+                <form>
+                    <div class="mb-3">
+                        <input type="text" class="form-control" id="" aria-describedby="" placeholder="Nombre">
+                      </div>
+                    <div class="mb-3">
+                      <input type="email" class="form-control" id="" aria-describedby="" placeholder="Correo">
+                      <div id="emailHelp" class="form-text">Nunca compartiré tu correo electrónico con nadie más.</div>
+                    </div>
+                    <div class=" mb-3 form-floating">
+                        <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea" style="height: 150px;"></textarea>
+                        <label for="floatingTextarea">Escribe tu mensaje aquí</label>
+                      </div>
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </form>
+            </div>
+        </div>
+      </main>
+    <!--Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+  </body>
+</html>
